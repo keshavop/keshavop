@@ -16,4 +16,4 @@
 [![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=keshavop&theme=react-dark)](https://github.com/keshavop)
 
 ### 🐍 Watch Snake eating my contribution:
-![snake svg](https://github.com/keshaop/keshavop/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg)
