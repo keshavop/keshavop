@@ -11,3 +11,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&" alt="keshavop" /></p>
 
+---
+
+[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=keshavop&theme=react-dark)](https://github.com/keshavop)
