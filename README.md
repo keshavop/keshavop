@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
   
-<br>
 <br>
 
 ### <div align="center">I'm Keshav, a full-time full-stack freelance developer 👨‍💻 || Techy Nerd 🚀</div>  
