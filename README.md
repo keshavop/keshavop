@@ -112,9 +112,9 @@
 
 </p>
   
+[![@keshavop's Holopin board](https://holopin.me/spyder15)](https://holopin.io/@keshavop)
 
-
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=keshavop&theme=react-dark)](https://github.com/keshavop)
+<!-- [![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=keshavop&theme=react-dark)](https://github.com/keshavop) -->
 
 ### 🐍 Watch Snake eating my contribution
 
