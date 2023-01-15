@@ -37,13 +37,13 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,nodejs,express,mongo,react,redux,angular)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,redux,angular,figma)]()
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,appwrite,aws,gcp)]()
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,appwrite,aws,gcp)](https://github.com/keshavop)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)]()
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/keshavop)
 
 <hr>
 
