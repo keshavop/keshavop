@@ -50,11 +50,11 @@
 ## 📊Github Stats  
 <table>
 <tr>
-<td valign="top" width="48%">
+<td valign="top" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right" />
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="45%">
 <img src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="left" />
 </td></tr></table>  
 
