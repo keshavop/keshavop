@@ -28,8 +28,6 @@
 <a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshavop/profile" height="45" width="45" /></a>
 <a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavop" height="45" width="45" /></a>
 
-<br>
-
 ## 🛠️Skills
 ### I Code in
 
