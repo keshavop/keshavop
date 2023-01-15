@@ -50,18 +50,19 @@
 <hr>
 
 ## 📊Github Stats  
-<table><tr><td valign="top" width="55%">
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right" />
+</td>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="right" /></div>
-
-</td><td valign="top" width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" />
-
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="left" />
 </td></tr></table>  
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=dark&hide_border=false" alt="keshav github streak" >
-</p>
+
+<div align="center" width=%>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false" alt="keshav github streak" >
+</div>
 
 <!-- ## 📊 GitHub Stats:
 
