@@ -21,12 +21,12 @@
 
 ## 👨‍💻Coding Profile
 
-<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@keshavop" height="45" width="45" /></a>
-<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshavop/profile" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavop" height="45" width="45" /></a>
+<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="assets/1.svg" alt="keshavop" height="45" width="45" /></a>
+<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="assets/2.svg" alt="@keshavop" height="45" width="45" /></a>
+<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="assets/3.svg" alt="keshavop" height="45" width="45" /></a>
+<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="assets/4.svg" alt="keshavop" height="45" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="assets/5.svg" alt="keshavop/profile" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="keshavop" height="45" width="45" /></a>
 
 ## 🛠️Skills
 ### I Code in
