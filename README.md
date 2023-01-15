@@ -53,7 +53,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="45%" align="left"/>
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="55%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="50%" align="right"/>
 </div>
 
 <div align="center">
