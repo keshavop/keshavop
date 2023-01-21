@@ -23,12 +23,12 @@
 
 ## 👨‍💻Coding Profile
 
-<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="assets/1.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="assets/2.svg" alt="@keshavop" height="45" width="45" /></a>
-<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="assets/3.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="assets/4.svg" alt="keshavop" height="45" width="45" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="assets/5.svg" alt="keshavop/profile" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="keshavop" height="45" width="45" /></a>
+<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="assets/1.svg" alt="hackerrank" height="45" width="45" /></a>
+<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="assets/2.svg" alt="hackerearth" height="45" width="45" /></a>
+<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="assets/3.svg" alt="codechef" height="45" width="45" /></a>
+<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="assets/4.svg" alt="codeforces" height="45" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="assets/5.svg" alt="gfg" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a>
 
 ## 🛠️Skills
 ### I Code in
