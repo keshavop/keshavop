@@ -2,7 +2,17 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;I'm+Techie+Nerd)](https://git.io/typing-svg)
 <br>
+
+
+<h2 align="center">
+<img src="assets/party-parrot.gif" width="31" height="31"/>
+<img src="assets/party-parrot.gif" width="31" height="31"/>
+<img src="assets/party-parrot.gif" width="31" height="31"/>
 <img src="https://komarev.com/ghpvc/?username=keshavop&&style=round-square" align="center" />
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+<img src="assets/party-parrot-2.gif" width="31" height="31"/>
+</h2>
 
 <img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
 
