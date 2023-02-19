@@ -18,7 +18,7 @@
 
 ## About me
 ### ✨ Creating bugs since  2020
-### 📚 I'm a tech nerd
+### 📚 I'm a Techie nerd
 ### 🎯 Goals: Hustle to get into 1%
 ### 🎲 Fun fact: I'm same as you
 
