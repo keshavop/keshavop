@@ -66,11 +66,11 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="38%"/>
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false" alt="keshav github streak">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false" alt="keshav github streak" width="38%">
 </p>
 
 <!-- ## 📊 GitHub Stats:
