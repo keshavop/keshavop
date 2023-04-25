@@ -33,12 +33,21 @@
 
 ## 👨‍💻Coding Profile
 
+<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/1.png" alt="hackerrank" height="45" width="45" /></a>
+<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/2.png" alt="hackerearth" height="45" width="45" /></a>
+<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/3.png" alt="codechef" height="45" width="45" /></a>
+<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/4.png" alt="codeforces" height="45" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/5.png" alt="gfg" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/6.png" alt="leetcode" height="45" width="45" /></a>
+
+<!-- ## 👨‍💻Coding Profile
+
 <a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="assets/1.svg" alt="hackerrank" height="45" width="45" /></a>
 <a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="assets/2.svg" alt="hackerearth" height="45" width="45" /></a>
 <a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="assets/3.svg" alt="codechef" height="45" width="45" /></a>
 <a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="assets/4.svg" alt="codeforces" height="45" width="45" /></a>
 <a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="assets/5.svg" alt="gfg" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a> -->
 
 ## 🛠️Skills
 ### I Code in
