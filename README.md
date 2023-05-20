@@ -24,7 +24,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 </h2>
 
-<img align="right" height="250" width="400" alt="GIF" src="assets/giphy.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fgiphy.gif?alt=media&token=e92f9416-8187-4ffa-a38c-47842be32451"/>
 
 ## About me
 ### ✨ Creating bugs since  2020
@@ -50,14 +50,23 @@
 <a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/5.png" alt="gfg" height="45" width="45" /></a>
 <a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://bitbucket.org/keshavop/keshavop-github-readme/raw/1fde8e39893f03e586ec7ed375b9998fcd2ab287/assets/6.png" alt="leetcode" height="45" width="45" /></a> -->
 
-## 👨‍💻Coding Profile
+<!-- ## 👨‍💻Coding Profile
 
 <a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="assets/1.svg" alt="hackerrank" height="45" width="45" /></a>
 <a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="assets/2.svg" alt="hackerearth" height="45" width="45" /></a>
 <a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="assets/3.svg" alt="codechef" height="45" width="45" /></a>
 <a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="assets/4.svg" alt="codeforces" height="45" width="45" /></a>
 <a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="assets/5.svg" alt="gfg" height="45" width="45" /></a>
-<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="assets/6.svg" alt="leetcode" height="45" width="45" /></a> -->
+
+## 👨‍💻Coding Profile
+
+<a href="https://www.hackerrank.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F1.png?alt=media&token=f351e7b1-d5ff-4889-b398-65d093f643a4" alt="hackerrank" height="45" width="45" /></a>
+<a href="https://www.hackerearth.com/@keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F2.png?alt=media&token=54209bbb-8719-495a-90c5-97dd30c4c43b" alt="hackerearth" height="45" width="45" /></a>
+<a href="https://www.codechef.com/users/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F3.png?alt=media&token=e34fb3f9-edd3-4264-b950-6af3237c4040" alt="codechef" height="45" width="45" /></a>
+<a href="https://codeforces.com/profile/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F4.png?alt=media&token=d8521fd8-cdf7-417d-adca-d523a98d39d8" alt="codeforces" height="45" width="45" /></a>
+<a href="https://auth.geeksforgeeks.org/user/keshavop/profile" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.png?alt=media&token=dc10e88c-425f-48af-aafe-7163305eb95e" alt="gfg" height="45" width="45" /></a>
+<a href="https://www.leetcode.com/keshavop" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
 
 ## 🛠️Skills
 ### I Code in
