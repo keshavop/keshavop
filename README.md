@@ -108,6 +108,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false) -->
 
 
+<details>
 ### 🐍 Watch Snake eating my contribution
 
 ![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg)
@@ -117,4 +118,7 @@
 
 <!-- [![@keshavop's Holopin board](https://holopin.me/keshavop)](https://holopin.io/@keshavop) -->
 
+</details>
+
 ![](https://i.imgur.com/waxVImv.png)
+
