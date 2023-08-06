@@ -89,7 +89,7 @@
 
 ## 📊Github Stats
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavop&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
@@ -99,7 +99,13 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false" alt="keshav github streak">
-</p>
+</p> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavop&langs_count=10&show_icons=true&locale=en&theme=radical" alt="keshavop" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&show_icons=true&locale=en&theme=radical" alt="keshavop" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical" alt="keshavop" /></p>
 
 <!-- ## 📊 GitHub Stats:
 
