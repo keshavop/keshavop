@@ -105,7 +105,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavop&show_icons=true&locale=en&theme=radical" alt="keshavop" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical" alt="keshavop" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical" alt="keshavop" /></p>
 
 <!-- ## 📊 GitHub Stats:
 
@@ -114,17 +114,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keshavop&theme=radical&hide_border=false) -->
 
 
-<details>
-### 🐍 Watch Snake eating my contribution
 
-![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg)
+<!-- ### 🐍 Watch Snake eating my contribution -->
+
+<!-- ![snake svg](https://github.com/keshavop/keshavop/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keshavop&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- [![@keshavop's Holopin board](https://holopin.me/keshavop)](https://holopin.io/@keshavop) -->
 
-</details>
+
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
