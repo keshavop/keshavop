@@ -30,7 +30,7 @@
 ### ✨ Creating bugs since  2020
 ### 📚 I'm a Techie nerd
 ### 🎯 Goals: Hustle to get into 1%
-### 🎲 Fun fact: I'm same as you
+### 🎲 Fun fact: If its working, don’t touch it
 
 <br>
 
