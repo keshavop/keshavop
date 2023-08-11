@@ -29,7 +29,7 @@
 ## About me
 ### ✨ Creating bugs since  2020
 ### 📚 I'm a Techie nerd
-### 🎯 Goals: Hustle to get into 1%
+### 🎯 Goals: Hustle to get into 0.1%
 ### 🎲 Fun fact: If its working, don’t touch it
 
 <br>
