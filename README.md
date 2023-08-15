@@ -77,7 +77,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,nodejs,express,mongo,react,redux,angular)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,appwrite,aws,gcp)](https://github.com/keshavop)
