@@ -69,7 +69,7 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,appwrite,aws,gcp)](https://github.com/keshavop)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/keshavop)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/keshavop)
