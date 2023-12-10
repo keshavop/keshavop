@@ -26,7 +26,7 @@
 ## 🚀 Connect with me
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/keshavop)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keshavop/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Keshavkopdev)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Keshavopdev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/keshav.kk_)
 
 
