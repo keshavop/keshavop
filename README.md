@@ -124,5 +124,12 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 </h2>
 
-![](https://i.imgur.com/waxVImv.png)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
+![](https://i.imgur.com/waxVImv.png)
