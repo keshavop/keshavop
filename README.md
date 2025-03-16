@@ -1,6 +1,6 @@
 # I'm [Keshav](https://github.com/keshavop)👋
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Software+Engineer;Creating+bugs+since+2020)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72EB3&width=435&lines=I+am+Software+Engineer;Creating+bugs+since+2020)](https://git.io/typing-svg)
 
 
 <!-- <h2 align="center">
