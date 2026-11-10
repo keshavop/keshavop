@@ -1,0 +1,43 @@
+# Redraws the README's animated SVG cards (cards/*.svg) from live GitHub data.
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "40 0 * * *"   # after the koi, every day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/render_cards.py
+      - fonts/**
+      - .github/workflows/profile-cards.yml
+
+permissions:
+  contents: write
+
+concurrency: profile-commits
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render_cards.py
+      - name: Commit the cards if they changed
+        run: |
+          git add cards
+          if git diff --cached --quiet; then
+            echo "Cards unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "chore: refresh profile cards"
+          git pull --rebase --quiet
+          git push --quiet
