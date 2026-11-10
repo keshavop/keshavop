@@ -11,7 +11,9 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-coding-dark.svg" /><img src="./cards/title-coding-light.svg" width="100%" alt="What I'm coding" /></picture><br>
 <a href="https://github.com/keshavop/Streamy-Youtube-Clone"><img src="./cards/repo-1.svg" width="33.333%" alt="Streamy-Youtube-Clone" /></a><a href="https://github.com/keshavop/CodeSync-IDE"><img src="./cards/repo-2.svg" width="33.333%" alt="CodeSync-IDE" /></a><a href="https://github.com/keshavop/Food-Ordering-App"><img src="./cards/repo-3.svg" width="33.333%" alt="Food-Ordering-App" /></a><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-koi-dark.svg" /><img src="./cards/title-koi-light.svg" width="100%" alt="Meet my koi" /></picture><br>
-<a href="https://github.com/yalongwastaken/git-koi"><img src="./koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's GitHub activity by git-koi" /></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="./koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's GitHub activity by git-koi" /></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-snake-dark.svg" /><img src="./cards/title-snake-light.svg" width="100%" alt="The snake that eats my commits" /></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keshavop/keshavop/output/github-contribution-grid-snake-dark.svg" /><img src="https://raw.githubusercontent.com/keshavop/keshavop/output/github-contribution-grid-snake.svg" width="100%" alt="A pink snake eating my contribution graph" /></picture>
 </div>
 
 <p align="center">

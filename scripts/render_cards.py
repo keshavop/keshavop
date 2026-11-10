@@ -543,5 +543,6 @@ if __name__ == "__main__":
     stack()
     section_title("coding", "What I'm", "coding")
     section_title("koi", "Meet my", "koi")
+    section_title("snake", "The snake that", "eats my commits")
     for i, name in enumerate(PINNED):
         repo_card(i, data["by_name"][name])
