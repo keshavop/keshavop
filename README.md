@@ -18,6 +18,4 @@
 
 <p align="center">
 <a href="https://keshavop.vercel.app">keshavop.vercel.app</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/keshavop/">linkedin</a> &nbsp;/&nbsp; <a href="https://twitter.com/Keshavopdev">twitter</a> &nbsp;/&nbsp; <a href="https://www.instagram.com/keshav2op_">instagram</a>
-<br>
-<sub><a href="https://www.leetcode.com/keshavop">leetcode</a> &nbsp;·&nbsp; <a href="https://codeforces.com/profile/keshavop">codeforces</a> &nbsp;·&nbsp; <a href="https://www.codechef.com/users/keshavop">codechef</a> &nbsp;·&nbsp; <a href="https://www.hackerrank.com/keshavop">hackerrank</a> &nbsp;·&nbsp; <a href="https://auth.geeksforgeeks.org/user/keshavop/profile">gfg</a> &nbsp;·&nbsp; <a href="https://www.hackerearth.com/@keshavop">hackerearth</a></sub>
 </p>
